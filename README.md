@@ -4,6 +4,7 @@ Rust Windows Builder Action
 ![GitHub](https://img.shields.io/github/license/aig787/rust-windows-cross-builder)
 ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/aig787/rust-windows-cross-builder)
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/aig787/rust-windows-cross-builder/CI)
+![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/aig787/rust-windows-cross-builder)
 
 GitHub action for building windows targeted rust binaries (x86_64-pc-windows-gnu). 
 
